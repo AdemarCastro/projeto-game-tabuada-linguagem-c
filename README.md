@@ -1,5 +1,3 @@
-# projeto-game-tabuada-linguagem-c
-
 # Projeto de Desenvolvimento do Jogo TABUADA10 para Apresentação em Sala
 
 O Jogo possui um Menu interativo, ao entrar irá encontrar uma interface amigável e um jogo com regras e níveis de dificuldade. O jogo possui um sistema que consiste em 
