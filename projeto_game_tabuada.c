@@ -20,8 +20,8 @@ void tabuada (int valor, char operador, int ponteiro, int y, int score, char nom
 // Algoritmo
 
 void tabuada (int valor, char operador, int ponteiro, int y, int score, char nome[10]){
-    
- 
+
+
     int resultado, i, operacao, vida, score_final;
     float resposta;
 
@@ -209,7 +209,6 @@ void tabuada (int valor, char operador, int ponteiro, int y, int score, char nom
 int main(void){
     
     // Variáveis do Algoritmo
-    
     int valor, dificuldade, menu;
     int operador, ponteiro;
     char nome[10], nada;

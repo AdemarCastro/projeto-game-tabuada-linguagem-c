@@ -1,8 +1,33 @@
-# Projeto de Desenvolvimento do Jogo TABUADA10 para Apresentação em Sala
+ # 🎮 Tabuada10 - Jogo de Matemática Divertido
 
-Tabuada10, o jogo, possui um Menu interativo que ao entrar irá encontrar uma interface amigável e um jogo com regras e níveis de dificuldade. Além disso, possui um sistema que consiste em o jogador responder perguntas de tabuada aleátorias, variando de operadores e números da operação, no qual ao acertar ganha-se pontos e ao errar perde-se vidas. No fim, ao perder todas as vidas, este é o único jeito do jogo acabar, no entanto, o usuário também poderá selecionar SAIR no MENU do jogo, o jogador irá receber seus SCORE e uma mensagem de agradecimento por ter jogado.
+Bem-vindo ao Tabuada10! 🎉 Um jogo divertido para você praticar suas habilidades matemáticas. Vamos começar?
 
-Aprendi como toda a estrutura de uma linguagem de programação funciona, comandos, operadores lógicos e como construir menus e programas funcionais com a linguagem C.  
+## Projeto
 
-Repositório com Projeto de Programação feito durante o  primeiro semestre, no qual desenvolvi minhas habilidades em linguagem C. 
-Atualmente, desenvolvendo habilidades com projetos pessoais e cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia - IFAM CMC.
+<img src="imgs/img-readme.png" width="70%">
+
+## Como Jogar:
+1. Insira o seu nome para começar.
+2. Escolha a dificuldade do jogo: FÁCIL, NORMAL, DIFÍCIL ou GOD MODE.
+3. Responda às perguntas de matemática corretamente para acumular pontos.
+4. Cada resposta correta aumenta o seu score.
+5. Cada resposta incorreta resulta na perda de uma vida.
+6. O jogo continua até que você perca todas as vidas.
+7. No final, o seu score será exibido.
+
+## 🚀 Divirta-se e mostre suas habilidades matemáticas!
+
+### Requisitos de Sistema:
+- Certifique-se de ter um compilador C instalado no seu sistema.
+
+- Para jogar:
+  - Copie o código fonte do jogo para um arquivo com a extensão ".c" (por exemplo, "tabuada10.c").
+  - Abra o terminal ou prompt de comando no diretório onde o arquivo ".c" está localizado.
+  - Compile o código fonte usando um compilador C, como o GCC, com o seguinte comando: `gcc tabuada10.c -o tabuada10`.
+  - Após compilar com sucesso, execute o jogo digitando o comando: `./tabuada10` (ou `tabuada10.exe` no Windows).
+  - Siga as instruções exibidas na tela para jogar o Tabuada10.
+
+### 🙌 Aproveite e bons cálculos!
+
+## Autores:
+O jogo Tabuada10 foi desenvolvido por Ademar Alves Castro Filho como parte de um exercício para a disciplina de Algoritmos e Técnicas de Programação.
